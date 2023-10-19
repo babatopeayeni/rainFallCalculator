@@ -1,0 +1,20 @@
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\RainfallCalculations\RainfallCalculations\obj\Debug\RainfallCalculations.csproj.AssemblyReference.cache
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\RainfallCalculations\RainfallCalculations\obj\Debug\Rainfall.Calculator.exe
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\RainfallCalculations\RainfallCalculations\obj\Debug\Rainfall.Calculator.pdb
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\RainfallCalculations\RainfallCalculations\bin\Debug\Rainfall.Calculator.exe.config
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\RainfallCalculations\RainfallCalculations\bin\Debug\Rainfall.Calculator.exe
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\RainfallCalculations\RainfallCalculations\bin\Debug\Rainfall.Calculator.pdb
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\RainfallCalculations\RainfallCalculations\obj\Debug\Rainfall.Calculator.Calculator.resources
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\RainfallCalculations\RainfallCalculations\obj\Debug\Rainfall.Calculator.Properties.Resources.resources
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\RainfallCalculations\RainfallCalculations\obj\Debug\RainfallCalculations.csproj.GenerateResource.cache
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Fall 2021\C#\RainfallCalculations\RainfallCalculations\obj\Debug\RainfallCalculations.csproj.CoreCompileInputs.cache
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Spring Semester 2021\RainfallCalculations\RainfallCalculations\bin\Debug\Rainfall.Calculator.exe.config
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Spring Semester 2021\RainfallCalculations\RainfallCalculations\bin\Debug\Rainfall.Calculator.exe
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Spring Semester 2021\RainfallCalculations\RainfallCalculations\bin\Debug\Rainfall.Calculator.pdb
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Spring Semester 2021\RainfallCalculations\RainfallCalculations\obj\Debug\RainfallCalculations.csproj.AssemblyReference.cache
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Spring Semester 2021\RainfallCalculations\RainfallCalculations\obj\Debug\Rainfall.Calculator.Properties.Resources.resources
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Spring Semester 2021\RainfallCalculations\RainfallCalculations\obj\Debug\RainfallCalculations.csproj.GenerateResource.cache
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Spring Semester 2021\RainfallCalculations\RainfallCalculations\obj\Debug\RainfallCalculations.csproj.CoreCompileInputs.cache
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Spring Semester 2021\RainfallCalculations\RainfallCalculations\obj\Debug\Rainfall.Calculator.exe
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Spring Semester 2021\RainfallCalculations\RainfallCalculations\obj\Debug\Rainfall.Calculator.pdb
+C:\Users\Tope\Documents\Documents\Columbus State Classes\Spring Semester 2021\RainfallCalculations\RainfallCalculations\obj\Debug\RainfallCalculations.Calculator.resources
